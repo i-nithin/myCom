@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DatabaseToolSources">
+    <data-source name="localhost" uuid="e3d6e92c-0579-4234-8cc2-10f3583a559e" type="MYSQL">
+      <base-info connect-type="DB_DEFAULT" />
+      <user-name>root</user-name>
+      <url>jdbc:mysql://localhost:3306/myCom?useSSL=false&amp;serverTimezone=Asia/Kolkata?useSSL=false&amp;serverTimezone=Asia/Kolkata</url>
+      <remarks />
+      <driver-info id="mysql5" />
+      <ssh-properties enabled="false" />
+      <ssl-config enabled="false">
+        <uuid />
+        <caFile />
+        <clientCertificateFile />
+        <clientKeyFile />
+        <sslMode>REQUIRE</sslMode>
+      </ssl-config>
+    </data-source>
+  </component>
+</project>

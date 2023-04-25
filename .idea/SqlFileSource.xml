@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SqlFileSource">
+    <option name="sources">
+      <map>
+        <entry key="$APPLICATION_CONFIG_DIR$/consoles/database-tool/e3d6e92c-0579-4234-8cc2-10f3583a559e/console.sql" value="e3d6e92c-0579-4234-8cc2-10f3583a559e" />
+        <entry key="$APPLICATION_CONFIG_DIR$/consoles/database-tool/e9eab5e1-8151-4fab-9cfc-e6167d5c1818/console.sql" value="e9eab5e1-8151-4fab-9cfc-e6167d5c1818" />
+      </map>
+    </option>
+  </component>
+</project>
